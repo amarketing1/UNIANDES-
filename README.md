@@ -1,61 +1,98 @@
-# UNIANDES — Base maestra de diseño, prompts y memoria
+# UNIANDES — Base maestra de diseño y prompts
 
-Repositorio público de referencia para mantener consistente el trabajo gráfico, generación/edición visual, campañas y estructura creativa de UNIANDES.
+Repositorio público de referencia para mantener consistente el trabajo gráfico, institucional y de generación o edición visual de UNIANDES.
 
 ## Propósito
 
-Centralizar la memoria reutilizable del proyecto: identidad visual, reglas de composición, formatos, prompts maestros, series por carrera, campañas/eventos, copy, logotipos/activos identificados y workflow de match.
+Centralizar la memoria reutilizable del proyecto: identidad visual, activos oficiales, reglas de composición, formatos, prompts maestros, series por carrera, campañas, eventos, copies institucionales y fuentes de referencia.
 
-> **Importante:** este repositorio es una memoria operativa, no sustituye un manual oficial de marca. La instrucción explícita más reciente del usuario siempre prevalece sobre referencias históricas.
+> Este repositorio es público. No incluir contraseñas, datos personales, archivos de fuentes tipográficas ni información privada innecesaria.
 
-> **Repositorio público:** no incluir contraseñas, tokens, datos personales innecesarios, archivos tipográficos comerciales ni fotografías/documentos privados que no deban hacerse públicos.
+## Estructura
 
-## Estructura actual
+### Activos oficiales y referencias
 
-### Documentación
+- `manual/`: manual de marca 2024.
+- `logos/`: logotipo principal en PDF y PNG transparente.
+- `mascota/`: águila institucional para comunicación estudiantil, deportiva, promocional y de vinculación.
+- `referencias/`: ejemplos de aplicación visual actual.
+- `Brief_de_Eventos_UNIANDES.docx`: brief institucional de eventos.
+- `MARCA-OS.md`: instalador documental del sistema operativo de marca; no se ejecuta automáticamente.
 
-- `docs/00_memoria_maestra.md` — contexto global, jerarquía de decisiones, ADN visual, plantillas y estrategia.
-- `docs/01_sistema_visual.md` — composición, color, fotografía, fondos y lenguaje visual.
-- `docs/02_formatos_y_entregables.md` — tamaños digitales, impresión, adaptación y calidad de salida.
-- `docs/03_fuentes_y_referencias.md` — logos, águila, hoodie, tipografía, activos, campus y referencias.
-- `docs/04_estructura_creativa_y_copy.md` — arquitectura de piezas, copy, CTA, eventos, comunicados e infografías.
-- `docs/05_campanas_eventos_2026.md` — archivo de campañas/eventos y sus líneas creativas.
-- `docs/06_workflow_match_y_gobernanza.md` — protocolo para sincronizar nuevas decisiones con GitHub.
+### Memoria y producción
 
-### Prompts
+- `docs/00_memoria_maestra.md`
+- `docs/01_sistema_visual.md`
+- `docs/02_formatos_y_entregables.md`
+- `docs/03_fuentes_y_referencias.md`
+- `prompts/00_prompt_maestro_generacion.md`
+- `prompts/01_prompt_maestro_edicion.md`
+- `prompts/02_arte_requerimiento.md`
+- `prompts/03_eventos_y_campanas.md`
+- `series/carreras_2026.md`
 
-- `prompts/00_prompt_maestro_generacion.md` — generación de artes desde cero.
-- `prompts/01_prompt_maestro_edicion.md` — edición localizada preservando elementos no solicitados.
-- `prompts/02_arte_requerimiento.md` — plantilla maestra de convocatorias/requerimientos.
-- `prompts/03_eventos_y_campanas.md` — patrones para eventos conceptuales y campañas.
+## Principios
 
-### Series
+1. Mantener el reconocimiento de UNIANDES sin limitar la libertad creativa.
+2. Adaptar referencias visuales sin copiarlas literalmente.
+3. Si la instrucción dice “no cambies nada más”, preservar todos los elementos no mencionados.
+4. Priorizar fotografía realista, piel natural, alta nitidez y profundidad de campo cuando corresponda.
+5. Reservar espacio limpio para textos y logos cuando el arte se solicite sin textos o como fondo.
 
-- `series/carreras_2026.md` — Medicina, Odontología, Enfermería, Obstetricia, Psicología Clínica, Derecho, Administración, Contabilidad, Software, Ingeniería Automotriz y líneas adicionales.
+## Identidad de marca
 
-### Fuentes originales existentes
+### Logotipo
 
-- `Brief_de_Eventos_UNIANDES.docx` — documento fuente presente en la raíz; conservar salvo instrucción explícita.
+La composición completa `UNIVERSIDAD UNIANDES` debe utilizarse como una unidad, sin alterar proporciones, espaciado ni construcción. El tamaño mínimo indicado por el manual es de 3,2 cm de ancho por 0,7 cm de alto.
 
-## Estados de memoria
+### Colores
 
-- **VIGENTE** — regla explícita reciente o repetida.
-- **APROBADO** — patrón aceptado en una serie/pieza.
-- **HISTÓRICO** — se utilizó anteriormente, no obliga a nuevas campañas.
-- **REFERENCIA** — inspiración útil, no norma.
-- **PENDIENTE DE VERIFICACIÓN** — dato aún no validado como estándar oficial.
-- **PENDIENTE BINARIO** — activo localizado fuera de GitHub pero aún no transferido.
+Colores primarios:
 
-## Principios esenciales
+- Azul: `#0D4A8C`
+- Blanco: `#FFFFFF`
 
-1. Mantener reconocimiento UNIANDES sin limitar libertad creativa.
-2. Traducir referencias a una solución propia, no copiarlas literalmente.
-3. Si la instrucción dice **“no cambies nada más”**, preservar todo elemento no mencionado.
-4. Priorizar fotografía realista, piel natural, manos correctas, alta nitidez y DOF cuando corresponda.
-5. Al adaptar formato, recomponer antes que deformar.
-6. Cuando se pide “sin textos/logos” o “solo fondo”, reconstruir el fondo limpiamente y dejar espacio útil.
-7. Águila, logos, paletas y recursos recurrentes son herramientas; su uso depende de cada brief.
+Colores secundarios:
 
-## Sincronización
+- Negro: `#1D1D1B`
+- Celeste: `#1D9AD6`
+- Dorado oscuro: `#9F7138`
+- Dorado medio: `#DAB765`
+- Dorado claro: `#F7F0B4`
 
-La consolidación ampliada se realizó el **25 de agosto de 2026**, cruzando memoria del proyecto, conversaciones UNIANDES disponibles, File Library, documentación estratégica localizada y contenido existente del repositorio.
+### Tipografía
+
+La tipografía institucional vigente informada por el equipo es **Neulist Alt**. El manual de 2024 menciona Montserrat como tipografía corporativa y Fritz-Quad como parte de la construcción histórica de la marca. Para piezas actuales se debe priorizar Neulist Alt y confirmar los pesos disponibles antes de producir arte final.
+
+Los archivos tipográficos no se incluyen porque no fueron suministrados y deben verificarse sus condiciones de licencia.
+
+### Mascota y emblema
+
+La mascota es el águila frontal de plumaje blanco, gris y negro, con ojos azules. No debe confundirse con el emblema institucional dorado, reservado para aplicaciones simbólicas o solemnes.
+
+### Comunicación actual
+
+Las piezas actuales utilizan fondos azul marino, acentos en azul eléctrico, fotografía profesional, titulares de alto peso, jerarquías compactas, contenedores translúcidos y llamados a la acción visibles. La firma `Inspira` se considera un lema o recurso de campaña y no una parte permanente del logotipo maestro, salvo indicación oficial posterior.
+
+## Archivos maestros
+
+Para impresión o ampliación se debe preferir el logotipo en PDF. Para aplicaciones digitales puede utilizarse el PNG transparente de 1853 × 500 px. La mascota disponible es un PNG RGBA de 1200 × 1185 px.
+
+## Control de uso
+
+- No inventar variantes del logotipo.
+- No separar `UNIVERSIDAD` de `UNIANDES`.
+- No aproximar la tipografía oficial sin indicarlo.
+- No usar la mascota como sustituto del emblema solemne.
+- Verificar ortografía, contraste, márgenes y legibilidad antes de publicar.
+
+## Responsable de diseño
+
+### Paulo Pizanán — Diseñador gráfico UNIANDES
+
+Cuenta con cuatro años de experiencia en UNIANDES, desarrollando material gráfico, publicitario y audiovisual para las ocho sedes de la institución en Ecuador.
+
+Su trabajo abarca la conceptualización, planificación y producción de campañas institucionales y académicas para medios digitales e impresos, incluyendo identidades visuales, redes sociales, anuncios, flyers, afiches, trípticos, portadas, diagramación editorial, fotografía, video y adaptación nacional de campañas.
+
+Inicializado el 25 de agosto de 2026.
+
