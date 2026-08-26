@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "project": {
+    "id": "uniandes-aguila-hero-v1",
+    "name": "Águila UNIANDES — Animación hero",
+    "language": "es-EC",
+    "type": "image-to-video",
+    "generator": "platform-agnostic",
+    "created_from": "mascota/aguila.png"
+  },
+  "render": {
+    "duration_seconds": 10,
+    "fps": 24,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "format": "mp4",
+    "codec": "h264",
+    "style": "cinematográfico, institucional, fotorrealista"
+  },
+  "source_asset": {
+    "path": "../mascota/aguila.png",
+    "role": "reference_image",
+    "lock_identity": true,
+    "preserve": [
+      "rostro, plumaje y silueta del águila",
+      "ojos azules intensos",
+      "paleta blanco, gris grafito y negro",
+      "proporciones del personaje"
+    ]
+  },
+  "global_direction": {
+    "prompt": "Usa la imagen de referencia como personaje principal. Águila institucional estilizada de plumaje blanco, grafito y negro, ojos azules luminosos. Animación de gran calidad cinematográfica: respiración natural muy sutil, parpadeos orgánicos, micro-movimientos de plumas por una brisa ligera y mirada decidida. Conservar exactamente la identidad, colores, anatomía y detalles del águila de la imagen de referencia. Fondo oscuro elegante con niebla volumétrica azul muy tenue y partículas discretas; iluminación de estudio con borde frío azul. Sensación de liderazgo, conocimiento, confianza y futuro.",
+    "negative_prompt": "cambiar el diseño o especie del águila, alterar el color azul de los ojos, ojos asimétricos, pico deformado, plumas fundidas, alas adicionales, extremidades extra, texto, logotipos inventados, marcas de agua, parpadeo visual, jitter, morphing, baja resolución, desenfoque, cámara temblorosa, estética caricaturesca, fondo blanco con artefactos",
+    "motion_strength": 0.28,
+    "seed": 20260825,
+    "audio": {
+      "enabled": false,
+      "suggested_ambience": "ascenso cinematográfico minimalista, percusión suave y textura de viento"
+    }
+  },
+  "timeline": [
+    {
+      "id": "scene_01_arrival",
+      "start_seconds": 0,
+      "end_seconds": 2.5,
+      "camera": {
+        "framing": "primer plano frontal",
+        "movement": "slow_dolly_in",
+        "intensity": 0.15
+      },
+      "character_animation": [
+        "respiración muy sutil",
+        "plumas de la cresta se mueven suavemente con la brisa",
+        "mirada fija a cámara"
+      ],
+      "lighting": "fondo grafito, luz de contorno azul tenue y reflejo frío muy suave en los ojos",
+      "prompt_addition": "El águila emerge gradualmente de una niebla azul oscura, inmóvil y poderosa; movimiento mínimo y controlado."
+    },
+    {
+      "id": "scene_02_focus",
+      "start_seconds": 2.5,
+      "end_seconds": 5,
+      "camera": {
+        "framing": "primerísimo primer plano de rostro y ojos",
+        "movement": "slow_push_in",
+        "intensity": 0.12
+      },
+      "character_animation": [
+        "un parpadeo natural único",
+        "ligera inclinación de cabeza hacia adelante",
+        "ondas sutiles en plumas del cuello"
+      ],
+      "lighting": "los ojos azules emiten un destello breve, sin sobresaturación",
+      "prompt_addition": "Transmitir enfoque y determinación; mantener perfectamente la simetría del rostro."
+    },
+    {
+      "id": "scene_03_power",
+      "start_seconds": 5,
+      "end_seconds": 7.5,
+      "camera": {
+        "framing": "plano medio frontal",
+        "movement": "slow_dolly_out",
+        "intensity": 0.18
+      },
+      "character_animation": [
+        "alas se despliegan apenas, sin salir de cuadro ni modificar su forma",
+        "plumas exteriores responden a una ráfaga delicada",
+        "la mirada sigue dirigida al espectador"
+      ],
+      "lighting": "contraluz azul más visible, polvo luminoso muy escaso en el ambiente",
+      "prompt_addition": "El águila muestra presencia y poder de manera sobria, elegante e institucional; sin vuelo ni movimientos bruscos."
+    },
+    {
+      "id": "scene_04_resolve",
+      "start_seconds": 7.5,
+      "end_seconds": 10,
+      "camera": {
+        "framing": "plano medio frontal centrado",
+        "movement": "hold",
+        "intensity": 0
+      },
+      "character_animation": [
+        "las alas regresan suavemente a reposo",
+        "una última oscilación leve de plumas",
+        "mirada firme y serena"
+      ],
+      "lighting": "halo azul sutil detrás de la silueta y fundido final a negro",
+      "prompt_addition": "Cerrar con una imagen limpia, centrada y estable, dejando espacio visual superior e inferior para títulos añadidos en posproducción."
+    }
+  ],
+  "postproduction": {
+    "color_grade": "contraste medio-alto, negros profundos, blancos neutros y acentos azul eléctrico exclusivamente en los ojos y la luz ambiental",
+    "transitions": "cortes invisibles y fundido a negro de 12 fotogramas al final",
+    "safe_areas": {
+      "top_percent": 15,
+      "bottom_percent": 18,
+      "instruction": "Reservar estas áreas para texto en edición; no generar texto dentro del video."
+    },
+    "quality_checks": [
+      "La identidad del águila coincide con la imagen de referencia en todos los fotogramas.",
+      "Los ojos permanecen azules, alineados y con pupilas naturales.",
+      "No aparecen extremidades, alas, picos ni plumas adicionales.",
+      "No aparecen palabras, logotipos inventados ni marcas de agua.",
+      "El resultado está estable, sin parpadeo ni deformaciones."
+    ]
+  }
+}
