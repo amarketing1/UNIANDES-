@@ -1,152 +1,205 @@
-# Memoria maestra — Proyecto UNIANDES
+# Memoria maestra del proyecto UNIANDES
 
-Fecha de consolidación: 25 de agosto de 2026.
+Actualización consolidada: 25 de agosto de 2026.
 
-## 1. Contexto de trabajo
+## 1. Propósito
 
-El proyecto reúne criterios recurrentes para piezas gráficas, campañas, eventos académicos, requerimientos de talento humano y contenidos institucionales de UNIANDES.
+Este archivo concentra decisiones reutilizables de diseño, generación y edición de imágenes para Universidad Regional Autónoma de los Andes — UNIANDES, Ecuador. La memoria proviene de conversaciones del proyecto, iteraciones aprobadas, archivos de referencia localizados y documentación estratégica disponible.
 
-Ámbitos mencionados con frecuencia:
-- Marketing y prospección.
-- Internacionalización.
-- Talento Humano.
-- Bienestar Universitario.
-- Seguridad y Salud Ocupacional.
-- Carreras de pregrado y posgrado.
-- CTT Los Andes.
+No es un manual de marca oficial. Es una **memoria operativa de producción** para mantener continuidad sin impedir que cada campaña tenga una identidad propia.
 
-Sedes/campus usados en piezas:
-- Ambato / Matriz.
-- Campus Tisaleo.
-- Ibarra.
-- Santo Domingo.
-- Quevedo.
-- Babahoyo.
-- Puyo.
-- Tulcán.
+## 2. Jerarquía de decisiones
 
-Lema institucional recurrente: **“¡Inspira a ser mejor!”**
+Aplicar siempre en este orden:
 
-Elemento visual recurrente: águila institucional UNIANDES. Debe mantenerse o eliminarse estrictamente según la instrucción puntual.
+1. Instrucción más reciente y explícita del usuario.
+2. Elementos que el usuario pide conservar literalmente en la pieza actual.
+3. Referencia visual adjunta para esa pieza.
+4. Plantilla o serie aprobada del mismo proyecto/carrera.
+5. Memoria maestra UNIANDES.
+6. Criterio creativo del diseñador/generador.
 
-## 2. Comportamiento esperado en edición
+Regla fundamental: **“no cambies nada más” significa modificación localizada**. Todo elemento no mencionado debe permanecer intacto.
 
-Regla crítica: cuando el pedido indique **“no cambies nada más”**, se debe conservar todo elemento no mencionado: composición, textos, logos, fondos, personajes secundarios, recuadros, iluminación y proporciones.
+## 3. Contexto institucional y creativo
 
-Otras reglas repetidas:
-- No alterar rostros cuando la persona debe mantenerse reconocible.
-- Si se pide mejorar rostro/piel: corregir artefactos, líneas o texturas extrañas sin cambiar identidad.
-- Piel natural, sin sobreprocesado ni textura fractalizada.
-- Mantener elementos institucionales exactos cuando se proporcionan como referencia.
-- Cuando se solicita “solo fondo”, retirar personajes, textos y logos y mantener la atmósfera/composición base.
-- Cuando se solicita “sin textos”, reservar zonas limpias para maquetación posterior.
-- Evitar elementos no solicitados (computadores, instrumentos, iconos, autos, logos, águilas, etc.).
+- Institución: Universidad Regional Autónoma de los Andes — UNIANDES.
+- Territorio principal de trabajo: Ecuador.
+- Lema recurrente: **“¡Inspira a ser mejor!”**.
+- Conceptos usados históricamente: “UNIANDES Inspira”, “Inspira”, águila institucional/mascota y recursos de vuelo, plumas, garras o trazos de águila.
+- Marketing tiene libertad creativa para producir campañas distintas y no está obligado a repetir una sola plantilla; el objetivo es conservar el ADN UNIANDES sin volver rígida la comunicación.
 
-## 3. Preferencias visuales recurrentes
+### Sedes/campus mencionados en el historial
 
-- Fotografía realista o hiperrealista de alta calidad.
-- Personajes jóvenes/profesionales con apariencia latina cuando aplique.
-- Fondos modernos, limpios y con profundidad de campo.
-- Desenfoque sutil o intenso según intención; en prompts se usa con frecuencia “super desenfoque” de fondo.
-- Composiciones limpias, jerarquía clara y alto contraste.
-- Evitar fondos excesivamente texturizados.
-- Estética corporativa institucional combinada con propuestas 2026 más cinematográficas y dinámicas.
-- Uso frecuente de azules UNIANDES, celestes, turquesas, blanco, negro y acentos amarillos/dorados.
-- Otras cromáticas por temática: verde para sustentabilidad, rosa para salud/enfermería, vino/morado para piezas específicas, negro/dorado para eventos premium.
+Ambato, Campus Tisaleo, Ibarra, Santo Domingo, Quevedo, Babahoyo, Puyo, Tulcán y, en antecedentes de proyecto, Riobamba, Quito y Latacunga.
 
-## 4. Personajes y poses
+## 4. ADN visual recurrente
 
-Solicitudes recurrentes:
-- Brazos cruzados.
-- Plano americano.
-- Personaje de pie.
-- Mirada al frente.
-- Interacción real con paciente/estudiante/objeto.
-- Zoom out para mostrar uniforme completo.
-- Variar rostros y rasgos entre opciones.
-- Evitar reutilizar la misma modelo cuando se piden alternativas.
+### Base institucional
 
-## 5. Oferta académica mencionada
+- Azul profundo / azul institucional.
+- Celeste/cian como acento de energía.
+- Blanco para contraste y respiración.
+- Composición limpia, jerarquía fuerte y lectura rápida.
+- Fotografía realista integrada con geometría, degradados o overlays.
 
-- Derecho.
-- Odontología.
-- Psicología Clínica.
-- Obstetricia.
-- Estética Integral.
-- Medicina.
-- Enfermería.
-- Veterinaria.
-- Educación Básica.
-- Administración de Empresas.
-- Contabilidad y Auditoría.
-- Seguridad Ciudadana.
-- Mecánica Dental.
-- Ingeniería Automotriz.
-- Software.
+### Líneas complementarias aprobadas o usadas
 
-Posgrado/CTT mencionados:
-- ADE Logística Empresarial.
-- Gerencia en Servicios de la Salud.
-- Cumplimiento / Lavado de Activos.
-- Talento Humano y Big Data.
-- Enfermería Oncológica.
-- Enfermería Quirúrgica.
-- Cuidados Críticos.
-- Derecho Notarial y Registral.
-- Big Data y Ciencia de Datos mención IA.
-- Ingeniería Automotriz.
-- Desarrollo Organizacional y Talento Humano.
-- BLS / ACLS.
-- Psicología Clínica Infantil.
-- Seguridad Integral.
+- Negro + dorado: piezas premium, académicas, jurídicas o eventos de alto impacto.
+- Azul eléctrico / cian: tecnología, comunicación juvenil, información y CTA.
+- Turquesa: salud/enfermería.
+- Verde: sustentabilidad.
+- Vino/morado: usos temáticos puntuales.
+- Rojo/naranja: acentos de campañas específicas; no asumirlos como color principal obligatorio.
 
-## 6. Plantilla “Arte requerimiento”
+### Recursos visuales recurrentes
 
-Referencia guardada:
+- Águila realista o estilizada, especialmente cabeza/ojos azules, silueta, alas, garra o rasgaduras.
+- Trazos y líneas dinámicas.
+- Degradados azul oscuro → azul/celeste.
+- Profundidad de campo marcada.
+- Fondos desenfocados para separar sujeto y texto.
+- Iluminación cinematográfica cuando el concepto lo requiere.
+- Formas redondeadas e iconografía clara en piezas informativas.
+
+## 5. Fotografía y personajes
+
+Preferencias recurrentes:
+
+- Fotografía hiperrealista o natural de alta calidad.
+- Piel natural: evitar textura plástica, fractalizada, excesivamente porosa o con trazos extraños.
+- Rostros latinos diversos; variar rasgos entre opciones.
+- Estudiantes jóvenes aproximadamente 20–23 años cuando la pieza es de carrera.
+- Posturas seguras, amigables y profesionales.
+- Brazos cruzados para retratos de autoridad/seguridad cuando se solicita.
+- Plano americano o cuerpo completo según arte.
+- Interacción real con instrumentos, pacientes, vehículos, laboratorios o contexto de carrera.
+- No usar objetos genéricos si el usuario pide un elemento profesional específico.
+
+### Hoodie UNIANDES
+
+Recurso aprobado recurrente: hoodie azul, negro o blanco con branding universitario de estilo collegiate/varsity. Puede combinarse con jean, pantalón casual o prendas semiformal/profesionales según la pieza.
+
+## 6. Reglas maestras de edición
+
+1. Mantener identidad facial cuando se entrega una foto de referencia concreta.
+2. Si se pide “solo cambia X”, cambiar únicamente X.
+3. Preservar logos, textos, fondos, marcos, edificios, campus o elementos de marca cuando se diga que deben mantenerse.
+4. Al eliminar textos/logos, reconstruir el fondo de forma coherente; no dejar huecos, manchas ni restos.
+5. Al adaptar tamaño, recomponer antes que deformar.
+6. Nunca estirar rostros, logos o arquitectura para llenar un nuevo formato.
+7. En fotomontajes, igualar luz, dirección de sombra, temperatura, perspectiva y profundidad.
+8. Para piel humana: evitar artefactos, líneas blancas, divisiones, sobreenfoque y grano artificial.
+9. En automóviles/acción: movimiento creíble, desenfoque radial en ruedas, motion blur controlado y partículas coherentes con el terreno.
+10. En piezas “solo fondo”: retirar textos/logos/personajes solicitados y dejar zonas útiles para maquetación posterior.
+
+## 7. Formatos más usados
+
+- 4:5 vertical — 1080 × 1350 px como referencia digital.
+- 9:16 — 1080 × 1920 px.
+- 1:1.
+- 1.91:1.
+- A4 vertical y horizontal.
+- A3 vertical y horizontal.
+- Roll up 200 × 80 cm.
+- 14 × 10 cm vertical.
+- Presentaciones 16:9.
+
+Para impresión: alta resolución, márgenes seguros y evitar elementos críticos pegados al borde.
+
+## 8. Plantillas y sistemas aprobados
+
+### Arte Requerimiento
+
+Referencia maestra de convocatorias y talento humano:
+
 - Formato 4:5.
-- Profesional ubicada a la derecha.
+- Profesional principal a la derecha.
 - Bloque informativo jerarquizado a la izquierda.
 - Fondo azul institucional elegante.
-- Estilo corporativo UNIANDES.
 - Alto contraste.
-- Composición limpia orientada a convocatorias/requerimientos de talento humano.
+- Corporativo, limpio y adaptable a perfiles distintos.
 
-Puestos trabajados incluyen medicina, odontología, secretaría/administración, admisiones, trabajo social, finanzas, laboratorio, estética, enfermería, hotelería, atención al cliente, seguridad de la información y obstetricia.
+Variaciones históricas: docente de medicina/odontología, secretaria/administración, gestor de admisiones, trabajo social, asistente financiero, técnicos de laboratorio, estética integral, enfermería, hotelería, atención al cliente, seguridad de la información y obstetricia.
 
-## 7. Series y líneas 2026
+### Comunicados institucionales
 
-Se han desarrollado líneas consistentes para Medicina, Odontología, Enfermería, Obstetricia, Psicología Clínica, Derecho, Administración de Empresas, Contabilidad y Auditoría, Software e Ingeniería Automotriz.
+- Azul institucional dominante.
+- Águila o branding superior cuando corresponda.
+- Imagen temática integrada con degradado/desvanecido.
+- Bloque textual con lectura clara.
+- Pie institucional consistente.
 
-La consistencia debe mantenerse en:
-- personaje,
-- cromática,
-- tratamiento fotográfico,
-- tipografía de referencia,
-- jerarquía del titular,
-- CTA,
-- elementos disciplinares de fondo.
+### Piezas de carreras
 
-## 8. Eventos/campañas destacados
+- Estudiante/profesional como protagonista.
+- Actividad concreta de la profesión.
+- Fondo temático desenfocado.
+- Titular emocional/aspiracional.
+- Texto de apoyo corto.
+- Pie con nombre de carrera.
+- CTA único.
 
-- Medical Escape Room.
-- Next Gen Conception.
-- UNIANDES Crime & Law / CSI Ecuador.
-- Gastronomy Vet Day.
-- Shark Tank — Administración.
-- QS Stars / QS Rankings.
-- Campaña uso del puente peatonal — “Segundos de Vida”.
-- La Creatividad también tiene Derecho.
-- Arquitectura Societaria.
-- Tours / Eagle Academic Tour.
-- Comunicados de feriados institucionales.
+## 9. Series por carrera registradas
 
-## 9. Filosofía de match
+Carreras con líneas visuales/copies trabajados en 2026:
 
-Cada nuevo pedido debe contrastarse contra:
-1. Identidad institucional.
-2. Plantilla/serie específica si existe.
-3. Referencia visual adjunta del pedido actual.
-4. Restricciones explícitas (“solo”, “sin”, “mantén”, “no modifiques”).
-5. Historial aprobado del mismo proyecto.
+Medicina, Odontología, Enfermería, Obstetricia, Psicología Clínica, Derecho, Administración de Empresas, Contabilidad y Auditoría, Software e Ingeniería Automotriz. También aparecen Educación Básica, Seguridad Ciudadana, Veterinaria, Gastronomía, Estética Integral y otros perfiles en campañas/eventos.
 
-La instrucción actual del usuario siempre tiene prioridad sobre una regla histórica cuando ambas entren en conflicto.
+Ver `series/carreras_2026.md`.
+
+## 10. Eventos/campañas con lenguaje visual propio
+
+- Medical Escape Room — Medicina.
+- UNIANDES Crime & Law / CSI Ecuador — Derecho + Psicología Clínica.
+- Next Gen Conception — Obstetricia.
+- Gastronomy Vet Day — Veterinaria + Gastronomía + Administración.
+- Shark Tank — Administración de Empresas.
+- Ruta Jurídica — protección de derechos de niñas, niños y adolescentes.
+- QS Stars — comunicación institucional/evaluación.
+- Pausas Activas — bienestar universitario.
+- Campaña uso del puente peatonal — seguridad y salud.
+- Eagle Academic Tour — variantes temáticas y de campus.
+- Taste Ecuador — exploración de marca/logotipo gastronómico.
+
+Ver `docs/05_campanas_eventos_2026.md` y `prompts/03_eventos_y_campanas.md`.
+
+## 11. Estrategia Marketing → Prospección → Admisiones → Matrícula
+
+La documentación estratégica disponible registra una lógica de conversión integrada:
+
+Atracción → Captura → Calificación → Nutrición → Experiencia → Cierre → Referido.
+
+Campañas madre localizadas:
+
+1. Testimonios “Lo que me inspira a seguir la carrera de…”.
+2. Test vocacional gratuito.
+3. Clases gratuitas de preparación.
+4. “Vive tu carrera por un día”.
+5. Charlas para padres.
+6. Programa de referidos.
+7. Activaciones en vacaciones/territorio.
+8. Masterclass presenciales y virtuales.
+
+Reglas estratégicas detectadas: segmentar por carrera/sede/fuente, usar un CTA claro, medir origen del lead y cerrar cada experiencia con un siguiente paso hacia matrícula.
+
+## 12. Sistema de estados para esta memoria
+
+- **VIGENTE**: instrucción explícita reciente o regla repetida.
+- **APROBADO**: patrón aceptado en una serie o pieza.
+- **HISTÓRICO**: se usó anteriormente; no obliga a futuras campañas.
+- **REFERENCIA**: útil como inspiración, no como norma.
+- **PENDIENTE DE VERIFICACIÓN**: dato encontrado en antecedentes pero no confirmado como estándar oficial.
+- **PENDIENTE BINARIO**: activo identificado en File Library pero no transferido al repositorio.
+
+## 13. Seguridad del repositorio público
+
+No subir:
+
+- contraseñas, tokens o accesos;
+- datos personales innecesarios;
+- archivos tipográficos comerciales sin licencia/permiso;
+- fotografías privadas que no deban hacerse públicas;
+- documentos internos sensibles.
+
+Sí documentar nombres de fuentes, descripción de activos y ubicación/origen para facilitar su recuperación.
