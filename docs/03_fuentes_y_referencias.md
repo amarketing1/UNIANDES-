@@ -31,6 +31,25 @@ Usos detectados:
 
 Regla: mantener o eliminar el águila según la instrucción de cada pieza. No asumir que debe aparecer en todo arte.
 
+#### Fuente visual maestra aprobada — retrato 3D frontal
+
+**Fecha de aprobación:** 25 de agosto de 2026.  
+**Estado:** APROBADO / CANÓNICO PARA EL ÁGUILA PROTAGONISTA.  
+**Prompt:** `prompts/04_aguila_arpia_institucional.md`.
+
+La referencia aprobada presenta un águila arpía frontal y centrada, con mirada intensa, ojos azul eléctrico/celeste institucional, frente blanca/gris clara, plumaje gris grafito y negro, penacho alto característico, pico plata y fondo gris oscuro degradado con halo suave detrás de la cabeza.
+
+Reglas de continuidad visual:
+
+- ojos siempre azul intenso;
+- mirada directa, fuerte y penetrante;
+- penacho reconocible del águila arpía;
+- plumaje en blancos, grises, grafito y negro;
+- no sustituir por águila calva, águila dorada ni especie genérica;
+- mantener estética realista 3D/fotorrealista premium salvo instrucción contraria;
+- generar sin texto ni logos por defecto;
+- cuando se añada el logo oficial, usar el activo real aportado por el usuario y evitar sombras exageradas, desenfoques o reconstrucción tipográfica con IA.
+
 ### Hoodie UNIANDES
 
 **Estado: APROBADO**
