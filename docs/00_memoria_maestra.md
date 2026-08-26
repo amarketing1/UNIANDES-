@@ -62,6 +62,29 @@ Ambato, Campus Tisaleo, Ibarra, Santo Domingo, Quevedo, Babahoyo, Puyo, Tulcán 
 - Iluminación cinematográfica cuando el concepto lo requiere.
 - Formas redondeadas e iconografía clara en piezas informativas.
 
+### Águila arpía institucional — referencia maestra aprobada
+
+**Estado: APROBADO / VIGENTE desde 25 de agosto de 2026.**
+
+La mascota emblemática de UNIANDES se representa como un águila arpía de fuerza, determinación e intensidad. Cuando sea protagonista visual, usar como fuente canónica `prompts/04_aguila_arpia_institucional.md`.
+
+Rasgos obligatorios:
+
+- retrato frontal, centrado y dominante;
+- mirada directa, fuerte, penetrante e intensa;
+- ojos azul eléctrico/celeste institucional, muy intensos, limpios y luminosos;
+- frente y parte superior de la cabeza en blanco/gris claro;
+- plumaje de alto detalle en blanco, gris plata, gris medio, grafito y negro;
+- penacho alto y característico del águila arpía, con plumas oscuras largas;
+- pico gris/plata, definido y anatómicamente limpio;
+- estética realista 3D/fotorrealista premium;
+- fondo maestro gris oscuro degradado con halo suave detrás de la cabeza;
+- sin texto ni logotipos por defecto.
+
+No sustituir por águila calva, águila dorada o especie genérica. Evitar ojos amarillos/verdes/rojos, estética caricaturesca, expresión amable o infantil, fantasía, deformaciones anatómicas, plumas plásticas, fractalización, ruido excesivo, letras accidentales o marcas falsas.
+
+Cuando se requiera el logo UNIANDES, incorporar posteriormente el activo oficial aportado por el usuario; no desenfocarlo, no añadir sombras exageradas y no reconstruir sus letras con IA cuando exista un archivo real.
+
 ## 5. Fotografía y personajes
 
 Preferencias recurrentes:
