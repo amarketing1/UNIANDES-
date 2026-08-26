@@ -60,6 +60,28 @@ Elemento recurrente, pero no obligatorio en todas las piezas. Seguir la instrucc
 - eliminarla cuando se solicite,
 - nunca reintroducirla por iniciativa propia después de que haya sido retirada.
 
+### Referencia maestra aprobada — 25 de agosto de 2026
+
+Cuando el águila arpía sea protagonista institucional, aplicar como referencia canónica `prompts/04_aguila_arpia_institucional.md`.
+
+Rasgos visuales obligatorios:
+
+- retrato frontal, dominante y centrado;
+- composición intensa y simétrica, con jerarquía compatible con ley de tercios;
+- ojos azul eléctrico/celeste institucional, intensos, nítidos y luminosos;
+- mirada penetrante, fuerte, determinada y directa a cámara;
+- plumaje hiperrealista en blanco, gris plata, gris medio, grafito y negro;
+- frente y zona superior de la cabeza predominantemente claras;
+- penacho alto, abierto y característico del águila arpía;
+- pico gris/plata bien definido;
+- render 3D fotorrealista premium, alta nitidez y detalle de plumas;
+- iluminación cinematográfica de estudio, con contraste alto pero limpio;
+- fondo maestro gris oscuro degradado con halo suave detrás de la cabeza.
+
+Evitar: águila calva o genérica, ojos amarillos/verdes/rojos, caricatura, fantasía, anatomía deformada, plumas plásticas, ruido fractal, texto accidental, marcas falsas o fondos saturados.
+
+Por defecto, generar el águila sin texto ni logotipo. Cuando se requiera branding, superponer el archivo oficial UNIANDES proporcionado por el usuario, sin desenfoque ni sombra exagerada y sin reconstruir las letras mediante IA.
+
 ## Tipografía
 
 Las referencias tipográficas deben dividirse en:
